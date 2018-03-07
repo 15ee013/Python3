@@ -1,4 +1,4 @@
-n=int(input(""))
+n=int(input("enter no:"))
 count=0
 while(n>0):
     n=n//10
